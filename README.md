@@ -5,9 +5,9 @@
 - 📚 I’m currently learning **Data Structures and Algorithms, OOPs and Flutter**.
 - 👯 I’m looking to collaborate on **Open Source Project** || **Startup Idea's**.
 
-- 🔭 I’m currently working on ChatApp
+- 🔭 I’m currently working on shopApp
 
-- 💬 Ask me about _android amd flutter_
+- 💬 Ask me about _android and flutter_
 
 - 📫 How to reach me *abhishek13717@gmail.com*
 
