@@ -19,16 +19,6 @@ I am a **Software Developer** with a strong focus on **Data Analysis**. I specia
 | ----------- | ---- | ----- |
 | JavaScript, Node.js, Python | Excel, SQL, Power BI, Pandas | Git, GitHub, VS Code, Tableau |
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek1917&show_icons=true&theme=dark&hide_title=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek1917&theme=dark" />
-</p>
-
----
-
 ## 🚀 Projects
 
 ### Full-Stack Projects
