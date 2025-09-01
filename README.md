@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer | Data Analyst | Building Scalable Solutions & Data-Driven Insights</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4V6i6Q2QvNQkY/giphy.gif" width="200"/>
+  <img src="https://raw.githubusercontent.com/abhishek1917/abhishek1917/main/assets/hi-tech-header.gif" width="200"/>
 </p>
 
 
